@@ -1,1 +1,4 @@
-THis is my second project
+---
+layout: page
+title: Project 2
+---
