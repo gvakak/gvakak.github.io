@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<p> Hello everyobody, my name is Georgios and i am the manager of this page. 
 
-### More Information
+### Hours and Days
+You can reach me 24/7 throught email and i will be back at you within three hours.
 
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
