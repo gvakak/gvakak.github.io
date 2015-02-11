@@ -4,6 +4,7 @@ title: Project 2
 ---
 
 <h1> Miami Sports highlights</h1>
+![My logo](https://farm8.staticflickr.com/7432/16311965560_b942975cfe_b.jpg)
 
 <h2> A project on the ways</h2>
 
