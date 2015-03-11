@@ -3,7 +3,7 @@ layout: post
 title: The Apple Watch Is Here
 ---
 
-![yoyoyooyoyo](http://thenextweb.com/wp-content/blogs.dir/1/files/2014/09/Apple_Oct_2014_18.jpg "Apple")
+![http://www.apple.com/](http://thenextweb.com/wp-content/blogs.dir/1/files/2014/09/Apple_Oct_2014_18.jpg "Apple")
 
 <h2> The Keynote </h2>
   <p>Time has arrived people, the Apple watch is here and ready to ship. On march 8 of 2015 Tim Cook the SEO 
