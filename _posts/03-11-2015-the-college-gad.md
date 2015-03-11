@@ -2,7 +2,7 @@
 layout: post
 title: Buyers Persona 
 ---
-<h1>The Loner </h1>
+<h1>College Graduate </h1>
 
 ![My logo](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/551929_10151177893446613_312510799_n.jpg?oh=64023701973e54948ac638a15e9b803e&oe=557DDFB8&__gda__=1438113935_1f3c92d885bc1e5982be3ab8cd90aa11)
 
