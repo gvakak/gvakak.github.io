@@ -3,7 +3,7 @@ layout: post
 title: The Apple Watch Is Here
 ---
 
-![alt text](http://thenextweb.com/wp-content/blogs.dir/1/files/2014/09/Apple_Oct_2014_18.jpg "Apple")
+![yoyoyooyoyo](http://thenextweb.com/wp-content/blogs.dir/1/files/2014/09/Apple_Oct_2014_18.jpg "Apple")
 
 <h2> The Keynote </h2>
   <p>Time has arrived people, the Apple watch is here and ready to ship. On march 8 of 2015 Tim Cook the SEO 
@@ -16,6 +16,8 @@ past several years to enter the 2nd biggest market of the world. Going on, they 
 software updates and the different fields that they will enter in the future.</p>
 
 <h3> The Apple Watch </h3>
+
+![alt text](http://blogs-images.forbes.com/anthonykosner/files/2014/10/apple-watch-selling-points.jpg  "The Apple watch")
 
 <p> The main focus of keynote was the apple watch. It was the last product presented. 
 'Keep the best for last’. This is the first wearable technology that apple creates and it is believes 
