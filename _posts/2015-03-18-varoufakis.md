@@ -6,7 +6,9 @@ title: Varoufakis
 <h1> Varoufakis And The Talkers</h1>
 
 <p>The past 7 years Greece has been under recession. The unemployment rate has grown to 32 %.. The middle class has shrinked, the average person is working in order to feed his family and not buy extra goods. Minimum wage is at 300 euros per month. </p>
-	<p>After 7 years, the Greek people decided to elect a new left political party that promises them the old good times. Varoufakis is the second in power and prime minister of economics department. Because of his very important position the spotlight of fame has turned on him. </p>
+	<p>After 7 years, the greek people decided to elect a new left political party that promises them the old
+	good times. Varoufakis is the second in power and prime minister of economics department.
+	Because of his very important position the spotlight of fame has turned on him. </p>
 <p>	In such a difficult period, this is probably the most important position of the government. You are managing the lives of 10 million people. By giving all day interviews and try to educate the world this government will fail terrible. And the thing is that if it fails now, there is no second chance. It is over.</p>
 <p>	Going on, by giving many interviews it is very easy your words to be twisted. If someone gives in average 10 interviews a day, it is very difficult for someone else to keep up with what he is saying and many times people get confused and problems are created because of false information.</p>
   <p>   Even if he could educate the hole world and convince them that they are following wrong policies and everybody should follow the greeks. To give you an example, the campaign of siriza before the elections was lets change together Europe. </p>
