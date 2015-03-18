@@ -3,9 +3,9 @@ layout: post
 title: Graphics For Social Media
 ---
 
-<p> There are many different ways to increase traffic on your web site. One 
+<h2> There are many different ways to increase traffic on your web site. One 
 of them is through social media. By posting media with text tha directs the user to
-your web site might have a great outcome.</p>
+your web site might have a great outcome.</h2>
 
 
 <h3> Some examples:</h3>
