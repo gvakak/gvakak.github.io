@@ -20,10 +20,10 @@ permalink: /about/
 <p>2014 3 month intership ar e-jumbo.gr</p>
 
 <h2>Skills</h2>
-<p>Photoshop</P
-<p>Illustrator</P
-<p>Dreamweaver</P
-<p>PremierPro</P
+<p>Photoshop</p>
+<p>Illustrator</p>
+<p>Dreamweaver</p>
+<p>PremierPro</p>
 <p>html/Css/Jquery/Javascript</p>
 
 <h2> Contact Me</h2>
