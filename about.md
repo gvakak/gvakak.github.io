@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 <h1>The Manager</h1>
+![alt text](https://scontent-lga.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/14183_10152325206317683_1835434699821490010_n.jpg?oh=6397599256f89e474d5f186ee5f72ae9&oe=55ABB4D9 "Me")
 <p> Hello everyobody, my name is Georgios and i am the manager of this page. </p>
 
 <h2>Origins</h2>
